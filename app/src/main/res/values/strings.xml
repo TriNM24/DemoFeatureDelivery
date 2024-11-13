@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestFeatureDelivery</string>
+    <string name="title_dynamic_feature1">Module Test 1</string>
+    <string name="download_dynamic_function">Download dynamic function</string>
+    <string name="title_dynamicfeature2">Module Title</string>
+    <string name="title_dynamicfeature">Module Title</string>
+    <string name="title_dynamicfeature1">Module Title</string>
+</resources>
