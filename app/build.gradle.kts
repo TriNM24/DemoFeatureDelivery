@@ -8,7 +8,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.app.myapplication"
+        applicationId = "com.tri.test.instant"
         minSdk = 26
         targetSdk = 35
         versionCode = 1

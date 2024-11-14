@@ -1,6 +1,7 @@
 package com.app.myapplication
 
 import android.content.Intent
+import android.os.Build
 import android.os.Bundle
 import android.util.Log
 import android.widget.Toast
@@ -73,7 +74,7 @@ class MainActivity : AppCompatActivity() {
 
                     startActivity(
                         Intent().setClassName(
-                            "com.app.myapplication",
+                            this.packageName,
                             "com.app.dynamicfeature1.DynamicFeature1MainActivity"
                         )
                     )
